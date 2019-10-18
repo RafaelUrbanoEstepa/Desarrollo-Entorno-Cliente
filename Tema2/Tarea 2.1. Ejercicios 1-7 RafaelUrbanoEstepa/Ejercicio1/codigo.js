@@ -1,0 +1,2 @@
+alert("Hola Mundo!");// Esta alerta se lanzará la primera mostrando el contenido 'Hola Mundo!'.
+alert("Soy el primer script"); // Esta alerta se lanzará después mostrando el contenido 'Soy el primer script', aunque en realidad es el segundo.
